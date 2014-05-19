@@ -1,3 +1,3 @@
 # Be sure to restart your server when you modify this file.
 
-Samantha::Application.config.session_store :cookie_store, key: '_samantha_session'
+Blog::Application.config.session_store :cookie_store, key: '_samantha_session'

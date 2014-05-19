@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Samantha::Application.config.secret_key_base = 'f27e88c9773e25167657e15461c2953401531d7822be2aaff88d371908d8b1fa43d7c16492e91650be4eb89325bebda9c81f43c7a4191700ad86f7ef913e16ce'
+Blog::Application.config.secret_key_base = 'f27e88c9773e25167657e15461c2953401531d7822be2aaff88d371908d8b1fa43d7c16492e91650be4eb89325bebda9c81f43c7a4191700ad86f7ef913e16ce'
